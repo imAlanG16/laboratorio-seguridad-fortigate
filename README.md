@@ -12,6 +12,7 @@
   <p><strong>Docente:</strong> Jonathan Esteban Rondon Corniel</p>
   <p><strong>Fecha de entrega:</strong> 9 de julio de 2026</p>
   <p><strong>Enlace del video:</strong> <a href="https://youtu.be/mp1y5AXqenU">https://youtu.be/mp1y5AXqenU</a></p>
+  <p><strong>Enlace del repositorio:</strong> <a href="https://github.com/imAlanG16/laboratorio-seguridad-fortigate">https://github.com/imAlanG16/laboratorio-seguridad-fortigate</a></p>
 </div>
 
 ## 1. Introducción
